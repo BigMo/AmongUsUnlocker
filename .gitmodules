@@ -1,0 +1,6 @@
+[submodule "SteamLib"]
+	path = SteamLib
+	url = https://github.com/BigMo/SteamLib
+[submodule "Il2CppInspector"]
+	path = Il2CppInspector
+	url = https://github.com/djkaty/Il2CppInspector
