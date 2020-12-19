@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmongUsUnlocker", "AmongUsU
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SteamLib", "SteamLib\SteamLib\SteamLib.csproj", "{5BF49D07-0BC7-49D8-9FE5-A0194290C6D7}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Il2CppInspector", "Il2CppInspector\Il2CppInspector.Common\Il2CppInspector.csproj", "{63288D4A-DBC1-45B3-ADC2-9CC5D7281801}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bin2Object", "Il2CppInspector\Bin2Object\Bin2Object\Bin2Object.csproj", "{17F03C10-0805-45E9-86CF-0986122FC48E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{5BF49D07-0BC7-49D8-9FE5-A0194290C6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BF49D07-0BC7-49D8-9FE5-A0194290C6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BF49D07-0BC7-49D8-9FE5-A0194290C6D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63288D4A-DBC1-45B3-ADC2-9CC5D7281801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63288D4A-DBC1-45B3-ADC2-9CC5D7281801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63288D4A-DBC1-45B3-ADC2-9CC5D7281801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63288D4A-DBC1-45B3-ADC2-9CC5D7281801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F03C10-0805-45E9-86CF-0986122FC48E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F03C10-0805-45E9-86CF-0986122FC48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F03C10-0805-45E9-86CF-0986122FC48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F03C10-0805-45E9-86CF-0986122FC48E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

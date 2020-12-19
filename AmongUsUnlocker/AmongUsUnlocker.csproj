@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Il2CppInspector\Il2CppInspector.Common\Il2CppInspector.csproj" />
     <ProjectReference Include="..\SteamLib\SteamLib\SteamLib.csproj" />
   </ItemGroup>
 
